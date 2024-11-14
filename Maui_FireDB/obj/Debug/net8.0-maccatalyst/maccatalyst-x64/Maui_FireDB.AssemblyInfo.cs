@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maui_FireDB")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+2fc57efbf3d5451aedb7f81574a7fe0cd85651c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+218c79502c3f9304d86bdcc59dca7d8faa0c4c24")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maui_FireDB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maui_FireDB")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
